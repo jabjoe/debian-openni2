@@ -14,7 +14,7 @@ Build-Depends: debhelper (>= 7.0.50~),
                doxygen,
                libjpeg-dev,
                graphviz
-Standards-Version: 3.9.2
+Standards-Version: 3.9.5
 Homepage: http://www.openni.org
 Vcs-Git: https://github.com/hcw70/OpenNI2.git
 Vcs-Browser: https://github.com/hcw70/OpenNI2.git
