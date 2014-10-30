@@ -6,3 +6,4 @@
 0006-Disable-SSE.patch
 0007-Link-NiViewer-against-ptherad-DSO-on-Ubuntu-raring.patch
 0008-Add-unused-attribute-to-fix-compilation-with-gcc-4.8.patch
+0009-Add-ARMhf-support.patch
